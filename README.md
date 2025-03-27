@@ -49,5 +49,5 @@ To run the model:
 - Use NLP to analyze website content
 
 ---
-Created by: *Your Name*  
-Date: March 2025
+Created by: Krzysztof Stanisz  
+Date: January 2025
